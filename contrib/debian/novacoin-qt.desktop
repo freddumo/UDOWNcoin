@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=UDOWNcoin
+Comment=UDOWNcoin P2P Cryptocurrency
+Comment[fr]=UDOWNcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=UDOWNcoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/UDOWNcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/UDOWNcoin;
+Categories=Office;

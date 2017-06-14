@@ -1,0 +1,2 @@
+debian/bin/UDOWNcoind usr/bin
+src/UDOWNcoind usr/lib/UDOWNcoin
